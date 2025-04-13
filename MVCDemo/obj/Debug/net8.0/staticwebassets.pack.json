@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Ayesha.jpg",
+      "PackagePath": "staticwebassets\\Ayesha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Bhavin.jpg",
+      "PackagePath": "staticwebassets\\Bhavin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Naren.jpg",
+      "PackagePath": "staticwebassets\\Naren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Nikil.jpg",
+      "PackagePath": "staticwebassets\\Nikil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Nithya.jpg",
+      "PackagePath": "staticwebassets\\Nithya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Pavithra.jpg",
+      "PackagePath": "staticwebassets\\Pavithra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Pooja.jpg",
+      "PackagePath": "staticwebassets\\Pooja.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\Renuga.jpg",
+      "PackagePath": "staticwebassets\\Renuga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap1.jpg",
+      "PackagePath": "staticwebassets\\cap1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap10.jpg",
+      "PackagePath": "staticwebassets\\cap10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap2.jpg",
+      "PackagePath": "staticwebassets\\cap2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap3.jpg",
+      "PackagePath": "staticwebassets\\cap3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap4.jpg",
+      "PackagePath": "staticwebassets\\cap4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap5.jpg",
+      "PackagePath": "staticwebassets\\cap5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap6.jpg",
+      "PackagePath": "staticwebassets\\cap6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap7.jpg",
+      "PackagePath": "staticwebassets\\cap7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap8.jpg",
+      "PackagePath": "staticwebassets\\cap8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\cap9.jpg",
+      "PackagePath": "staticwebassets\\cap9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\capgemini.jpg",
+      "PackagePath": "staticwebassets\\capgemini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\capgemini1.jpg",
+      "PackagePath": "staticwebassets\\capgemini1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\capgemini2.jpg",
+      "PackagePath": "staticwebassets\\capgemini2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\devisri.jpg",
+      "PackagePath": "staticwebassets\\devisri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\jana.jpg",
+      "PackagePath": "staticwebassets\\jana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\laptop.jpg",
+      "PackagePath": "staticwebassets\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snafa\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\selva.jpg",
+      "PackagePath": "staticwebassets\\selva.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVCDemo.props",
+      "PackagePath": "build\\MVCDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCDemo.props",
+      "PackagePath": "buildMultiTargeting\\MVCDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVCDemo.props",
+      "PackagePath": "buildTransitive\\MVCDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

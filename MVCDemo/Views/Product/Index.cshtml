@@ -1,0 +1,31 @@
+﻿@model MVCDemo.Models.Student;
+@{
+    Layout = "_Layout1";
+}
+
+<h1>Product Details</h1>
+
+<form method="post" action="SaveData">
+@Html.EditorForModel()
+    <input type="submit" name="Save" value="SaveData" formaction="SaveData" />
+    <input type="submit" name="Clear" value="ClearData" formaction="ClearData" />
+    <input type="submit" name="Delete" value="DeleteData" formaction="DeleteData" />
+
+</form>
+
+
+@* <h3>Display For Model:</h3>
+
+<h4>@Html.DisplayForModel()</h4>
+<hr />
+<h3>Show one data:</h3>
+<h4>@Html.DisplayFor(x=>x.Sname)</h4>
+<hr />
+
+<h3>Edit Data For model:</h3>
+<h4>@Html.EditorForModel()</h4>
+<hr />
+
+<h3>Edit one data:</h3>
+<h4>@Html.EditorFor(x=>x.Sname)</h4>
+ *@

@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+*@
+@{
+}
+@model MVCDemo.Models.Student;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using System.Collections.Generic;
+
+
+
+
+<form asp-action="SaveData" asp-controller="User" method="post">
+
+    <div>
+       
+        <span asp-validation-for="Sid" class="text-danger"></span>
+    </div>
+
+    
+   
+    <div>
+        <label asp-for="Sname">
+        </label>
+        <input asp-for="Sname" />
+        <span asp-validation-for="Sname" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Education"></label>
+        <input asp-for="Education" />
+        <span asp-validation-for="Education" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Profilepicture"></label>
+        <input asp-for="Profilepicture"/>
+        <span asp-validation-for="Profilepicture" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Description"></label>
+        <input asp-for="Description" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="DateOfbirth"></label>
+        <input asp-for="DateOfbirth" />
+        <span asp-validation-for="DateOfbirth" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+
+    <button type="Submit" value="Register">Register</button>
+
+    <button type="Submit" asp-action="DeleteData" asp-controller="User" method="post" value="Delete">Delete</button>
+
+    <button type="Submit" asp-action="UpdateData" asp-controller="User" method="post" value="Update">Update</button>
+
+    <div asp-validation-summary="All" class="text-danger">
+       
+    </div>
+
+</form> 

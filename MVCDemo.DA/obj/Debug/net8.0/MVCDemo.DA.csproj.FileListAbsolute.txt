@@ -1,0 +1,12 @@
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\bin\Debug\net8.0\MVCDemo.DA.deps.json
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\bin\Debug\net8.0\MVCDemo.DA.dll
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\bin\Debug\net8.0\MVCDemo.DA.pdb
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.csproj.AssemblyReference.cache
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.AssemblyInfoInputs.cache
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.AssemblyInfo.cs
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.csproj.CoreCompileInputs.cache
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.dll
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\refint\MVCDemo.DA.dll
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\MVCDemo.DA.pdb
+C:\Users\snafa\source\repos\MVCDemo\MVCDemo.DA\obj\Debug\net8.0\ref\MVCDemo.DA.dll

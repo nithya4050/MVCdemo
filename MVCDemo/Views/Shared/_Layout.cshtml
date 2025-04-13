@@ -1,0 +1,504 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/wwwroot/bootstrap-5.3.3-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/wwwroot/bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/wwwroot/bootstrap-5.3.3-dist/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="~/wwwroot/bootstrap-5.3.3-dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+
+    <script src="~/wwwroot/bootstrap-5.3.3-dist/js/bootstrap.bundle.js"></script>
+    <script src="~/wwwroot/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/wwwroot/bootstrap-5.3.3-dist/js/bootstrap.esm.js"></script>
+    <script src="~/wwwroot/bootstrap-5.3.3-dist/js/bootstrap.esm.min.js"></script>
+    <script src="~/wwwroot/bootstrap-5.3.3-dist/js/bootstrap.js"></script>
+    <script src="~/wwwroot/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
+
+
+<Style>
+   
+
+ul.topnav {
+  list-style-type: none;
+  margin-right:1000px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1434A4;
+  width:100%;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 34px 36px;
+  text-decoration: none;
+  width:100%;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: gray;}
+
+ul.topnav li a.active {background-color: gray;}
+
+ul.topnav li.right {float: right;}
+
+
+
+        .dropbtn {
+            background-color: transparent;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+        }
+
+        .dropdown {
+            position: center;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: relative;
+            background-color: transparent;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: white;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+               /*  .dropdown-content a:hover {
+                    background-color: #ddd;
+                } */
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+       /*  .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+        } */
+
+
+        div.scrollmenu {
+            background-color: white;
+            overflow: auto;
+            white-space: nowrap;
+            margin-left: 120px;
+            font-family: 'Times New Roman', Times, serif
+        }
+
+            div.scrollmenu a {
+                display: inline-block;
+                color: black;
+                text-align: center;
+                padding: 14px;
+                text-decoration: none;
+                /*                margin-left:50px;
+        */
+            }
+
+                div.scrollmenu a:hover {
+                    background-color: #FFF;
+                }
+
+        div.mycontainer {
+            width: 100%;
+            overflow: auto;
+            align-content: center;
+        }
+
+            div.mycontainer div {
+                width: 20%;
+                float: left;
+                align-content: flex-start;
+            }
+
+        .rounded {
+            height: 200px;
+            width: 200px;
+            align-content: center;
+        }
+
+        /* Style the footer */
+        footer {
+            background-color: #1434A4;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+
+      
+</Style>
+
+</head>
+
+<body id="link">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Demo</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="Home/Index">Home</a></li>
+                <li><a href="Home/Aboutus">Aboutus</a></li>
+                <li><a href="Product/Index">Product</a></li>
+            </ul>
+            <form class="navbar-form navbar-left" action="/action_page.php">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search" name="search">
+                </div>
+                <button type="submit" class="btn btn-default">Submit</button>
+            </form>
+        </div>
+    </nav>
+
+
+
+
+    <div>
+      <ul class="topnav"> 
+
+            <div class="dropdown">
+                <li class="dropbtn"><h4><a href="#home">Insights</a></h4></li>
+               <div class="dropdown-content">
+            
+                <a href="#AI">Generating AI</a>
+                <a href="#Sub">Substainability</a>
+                <a href="#Technology">Technology</a>
+                <a href="#Marketing">Marketing</a>
+                <a href="#WorldEconomic">World Economic</a>
+                <a href="#SearchLibrary">Search Library</a>
+              </div>
+            </div>
+
+    <div class="dropdown">
+        <li class="dropbtn"><h4><a href="#Industries">Industries</a></h4></li>
+        <div class="dropdown-content">
+
+            <a href="#AI">Aerospace</a>
+            <a href="#Sub">Automative</a>
+            <a href="#AI">Banking Capital Market</a>
+            <a href="#Sub">Consumer Product</a>
+            <a href="#AI">HealthCare</a>
+            <a href="#Sub">Hi-Tect</a>
+
+        </div>
+    </div>
+    <div class="dropdown">
+        <li class="dropbtn"><h4><a href="#Services">Services</a></h4></li>
+        <div class="dropdown-content">
+
+            <a href="#AI">Cloud</a>
+            <a href="#Sub">Customer First</a>
+            <a href="#AI">Ciber Security</a>
+            <a href="#Sub">Data and Artificial Inteligence</a>
+            <a href="#Sub">Enterprice Management</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <li class="dropbtn"><h4><a href="#Services">Careers</a></h4></li>
+        <div class="dropdown-content">
+
+            <a href="#AI">Generating AI</a>
+            <a href="#Sub">Substainability</a>
+
+        </div>
+    </div>
+    <div class="dropdown">
+        <li class="dropbtn"><h4><a href="#Services">News</a></h4></li>
+        <div class="dropdown-content">
+
+            <a href="#AI">Generating AI</a>
+            <a href="#Sub">Substainability</a>
+
+        </div>
+    </div>
+    <div class="dropdown">
+        <li class="dropbtn"><h4><a href="#Aboutus">Aboutus</a></h4></li>
+        <div class="dropdown-content">
+
+            <a href="#AI">Generating AI</a>
+            <a href="#Sub">Substainability</a>
+
+        </div>
+    </div>
+    <div class="dropdown">
+        <li class="right"><h4><a href="#about">Contact Us</a></h4></li>
+        
+    </div>
+    <div class="dropdown">
+        <li class="right"><h4><a href="#Investorss">Investorss</a></h4></li>
+        
+    </div>
+    <div class="dropdown">
+        <li class="right"><h4><a href="#about">Global</a></h4></li>
+        
+    </div></ul> </div>
+
+
+    <!-- Carousel -->
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/capgemini.jpg" alt="Los Angeles" class="d-block" style="width:100%">
+            </div>
+            <div class="carousel-item">
+                <img src="~/capgemini1.jpg" alt="Chicago" class="d-block" style="width:100%">
+            </div>
+            <div class="carousel-item">
+                <img src="~/capgemini2.jpg" alt="New York" class="d-block" style="width:100%">
+            </div>
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+
+
+
+    <div>
+        <h2 id="AI">Generating AI</h2>
+
+
+        <pre>
+            What is Lorem Ipsum?
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+            What is Lorem Ipsum?
+                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </pre>
+
+        <div class="scrollmenu">
+            <div class="mycontainer" id="mycont">
+
+                <div>
+                    <img src="~/cap1.jpg" class="rounded">
+                    <h6>
+                        <a href="#newversion">New Version</a>
+                    </h6>
+
+                    <!--<a href="#">Function Wear</a>
+                    <a href="#">Boys Dress</a>
+                    <a href="#">Girls dress</a>-->
+                </div>
+
+                <div>
+                    <img src="~/cap2.jpg" class="rounded" alt="...">
+                    <h6><a href="#ani">Animations</a></h6>
+                </div>
+
+                <div>
+                    <img src="~/cap3.jpg" class="rounded" alt="...">
+                    <h6><a href="#Fashion">How to Enter?</a></h6>
+                </div>
+
+               
+
+            </div>
+        </div>
+
+
+
+        <h2 id="Sub">Substainability</h2>
+        <pre>
+            What is Lorem Ipsum?
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+            What is Lorem Ipsum?
+                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </pre>
+
+        <div class="scrollmenu">
+            <div class="mycontainer" id="mycont">
+
+                <div>
+                    <img src="~/cap4.jpg" class="rounded">
+                    <h6>
+                        <a href="#newversion">Are You Ready</a>
+                    </h6>
+
+                    <!--<a href="#">Function Wear</a>
+                    <a href="#">Boys Dress</a>
+                    <a href="#">Girls dress</a>-->
+                </div>
+
+                <div>
+                    <img src="~/cap5.jpg" class="rounded" alt="...">
+                    <h6><a href="#ani">Our Office</a></h6>
+                </div>
+
+                <div>
+                    <img src="~/cap6.jpg" class="rounded" alt="...">
+                    <h6><a href="#Fashion">Capgemini</a></h6>
+                </div>
+
+
+
+            </div>
+        </div>
+
+        <h2 id="Technology">Technology</h2>
+        <pre>
+
+            What is Lorem Ipsum?
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+            What is Lorem Ipsum?
+                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+           </pre>
+
+        <div class="scrollmenu">
+            <div class="mycontainer" id="mycont">
+
+                <div>
+                    <img src="~/cap7.jpg" class="rounded">
+                    <h6>
+                        <a href="#newversion">In India</a>
+                    </h6>
+                </div>
+
+               
+
+                <div>
+                    <img src="~/cap9.jpg" class="rounded" alt="...">
+                    <h6><a href="#Fashion">Capgemini Team Meetup</a></h6>
+                </div>
+
+
+
+            </div>
+        </div>
+
+        <h2 id="Marketing">Marketing</h2>
+        <pre>
+                What is Lorem Ipsum?
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+            What is Lorem Ipsum?
+                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </pre>
+
+        <h2 id="WorldEconomic">World Economic</h2>
+        <pre>
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+            What is Lorem Ipsum?
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+</pre>
+
+        <h2 id="SearchLibrary">Search Library</h2>
+        <pre>
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+              hi welcome
+            What is Lorem Ipsum?
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard  
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+</pre>
+
+
+        <h2 id="about">About Us</h2>
+        <div>
+            <img src="~/cap8.jpg" class="rounded" alt="...">
+            <h6><a href="#ani">About Us</a></h6>
+        </div>
+
+
+
+    </div>
+
+
+  
+
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <a href="#link">Top</a>
+
+    <footer>
+        <p>Footer</p>
+        <p> Capgemini Footer</p>
+    </footer>
+
+</body>
+</html>
